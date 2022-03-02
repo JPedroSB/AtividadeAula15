@@ -1,6 +1,8 @@
 # AtividadeAula15
 Atividades passada em aula pela professora Cristina Jung com o intuito de praticar a  lógica sobre react-native no android.
 
+As atividades foram feitas com o auxilio de Sophia Mendes da Silveira.
+
 Abaixo segue Prints das atividades:
 
 Exercício 1:
